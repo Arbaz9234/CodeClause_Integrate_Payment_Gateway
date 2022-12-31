@@ -1,0 +1,25 @@
+{
+  "name": "linkpe",
+  "version": "1.0.0",
+  "description": "will describe later",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbaz9234/linkpe.git"
+  },
+  "keywords": [
+    "later"
+  ],
+  "author": "Md Arbaz Tahir",
+  "license": "Personal",
+  "bugs": {
+    "url": "https://github.com/Arbaz9234/linkpe/issues"
+  },
+  "homepage": "https://github.com/Arbaz9234/linkpe",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
